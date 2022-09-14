@@ -14,13 +14,13 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:36:20.png"  />
+  <img height="100" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:36:20.png"  />
 </div>
 <h6 align="center">verificaremos el modo de arranque, si aparece algo parecido es porque estamos usando UEFI</h6>
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:52:28.png"  />
+  <img height="100" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:52:28.png"  />
 </div>
 
 ###
@@ -37,7 +37,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:36:34.png"  />
+  <img height="100" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:36:34.png"  />
 </div>
 
 ###
@@ -61,7 +61,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-09-14_13:16:40.png"  />
+  <img height="50" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-09-14_13:16:40.png"  />
 </div>
 
 ###
@@ -69,7 +69,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-09-14_13:18:33.png"  />
+  <img height="50" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-09-14_13:18:33.png"  />
 </div>
 
 ###
@@ -100,7 +100,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:46:43.png"  />
+  <img height="50" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:46:43.png"  />
 </div>
 
 ###
@@ -164,7 +164,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:54:48.png"  />
+  <img height="20" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:54:48.png"  />
 </div>
 
 ###
@@ -183,7 +183,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:03:00.png"  />
+  <img height="50" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:03:00.png"  />
 </div>
 
 ###
@@ -191,7 +191,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:03:57.png"  />
+  <img height="20" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:03:57.png"  />
 </div>
 
 ###
@@ -206,7 +206,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:04:56.png"  />
+  <img height="50" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:04:56.png"  />
 </div>
 
 ###
@@ -214,17 +214,17 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:05:59.png"  />
+  <img height="50" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:05:59.png"  />
 </div>
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:07:38.png"  />
+  <img height="100" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_13:07:38.png"  />
 </div>
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_15:32:59.png"  />
+  <img height="50" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_15:32:59.png"  />
 </div>
 
 ###
@@ -248,7 +248,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_15:37:05.png"  />
+  <img height="70" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_15:37:05.png"  />
 </div>
 
 ###
@@ -256,7 +256,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_15:57:31.png"  />
+  <img height="70" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_15:57:31.png"  />
 </div>
 
 ###
@@ -272,7 +272,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_15:58:19.png"  />
+  <img height="100" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_15:58:19.png"  />
 </div>
 
 ###
@@ -280,7 +280,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:34:04.png"  />
+  <img height="50" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:34:04.png"  />
 </div>
 
 ###
@@ -294,7 +294,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:46:34.png"  />
+  <img height="80" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:46:34.png"  />
 </div>
 
 ###
@@ -302,12 +302,12 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:47:55.png"  />
+  <img height="80" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:47:55.png"  />
 </div>
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:48:13.png"  />
+  <img height="80" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:48:13.png"  />
 </div>
 
 ###
@@ -315,7 +315,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:51:32.png"  />
+  <img height="80" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_16:51:32.png"  />
 </div>
 
 ###
