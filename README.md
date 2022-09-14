@@ -16,7 +16,14 @@
 <div align="center">
   <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:36:20.png"  />
 </div>
+<h6 align="center">verificaremos el modo de arranque, si aparece algo parecido es porque estamos usando UEFI</h6>
 
+###
+<div align="center">
+  <img height="200" src="https://github.com/xc0d312/Arch-installation-guide/blob/main/src/screensht_22-08-26_12:52:28.png"  />
+</div>
+
+###
 ###
 <h6 align="center">configuraremos el teclado a nuesto idioma nativo, de paso le daremos un tamaño ala tty para poder tener mejor manejo dentro de la terminal.</h6>
 
