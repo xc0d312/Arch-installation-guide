@@ -284,7 +284,9 @@
 </div>
 
 ###
-<h6 align="left">sino queremos usar bootctl  como cargador de arranque, podemos instalar GNU grub, instalamos el programa con la siguiente instrucción. pacman -S grub efibootmg.despues de eso ejecutamos el siguiente comando grub-install --target=x86_64-efi  --efi-directory=/boot/EFI</h6>
+<h6 align="left">sino queremos usar bootctl  como cargador de arranque, podemos instalar GNU grub, instalamos el programa con la siguiente instrucción. pacman -S grub efibootmg.despues de eso ejecutamos el siguiente comando grub-install --target=x86_64-efi  --efi-directory=/boot/EFI. Luego de hacer eso cargamos los archivos de configuración el grub con el comando:
+grub-mkconfig -o /boot/grub/grub.cfg 
+</h6>
 
 ###
 <h6 align="center">Despues de haber echo eso, ejecutamos el comando exit, para salir de la instalación y desmontamos todas las particiones con el comando umount -R /mnt</h6>
